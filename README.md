@@ -3,7 +3,14 @@ Scrape and parse some common job sites for keywords
 
 
 Dependencies:
+
+If you don't have pip- 
 ```
-pip install beautifulsoup4 prettytable requests
+sudo -H easy_install pip
+```
+
+Then something like- 
+```
+sudo -H pip install beautifulsoup4 prettytable requests
 ```
 
